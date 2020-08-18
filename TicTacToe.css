@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+}
+h1{
+	text-align: center;
+	color: red;
+	font-size: 50px;
+}
+.divinline{
+	position: relative;
+	left: 31%;
+	display: inline-block;
+	border: solid 1px black;
+	width: 150px;
+	height: 150px;
+	background-color: white;
+}
